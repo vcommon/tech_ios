@@ -1,0 +1,137 @@
+PODS:
+  - ACEExpandableTextCell (1.0.4):
+    - SZTextView
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - DZNEmptyDataSet (1.8.1)
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - FTPopOverMenu (1.3.4)
+  - IQKeyboardManager (5.0.7)
+  - JTCalendar (2.1.10)
+  - LBXScan (1.1.1):
+    - ZXingObjC (~> 3.0)
+  - Masonry (1.0.2)
+  - MBProgressHUD (0.9.2)
+  - MJRefresh (3.1.15.3)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - SDAutoLayout (2.1.9)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SZTextView (1.3.0)
+  - Toast (3.1.0)
+  - TPKeyboardAvoiding (1.3.2)
+  - TZImagePickerController (1.7.8)
+  - UITableView+FDTemplateLayoutCell (1.6)
+  - VTMagic (1.2.4):
+    - VTMagic/Core (= 1.2.4)
+  - VTMagic/Core (1.2.4)
+  - WTPhotoBrowser (0.0.16):
+    - SDAutoLayout
+    - YYWebImage
+  - YTKNetwork (2.0.4):
+    - AFNetworking (~> 3.0)
+  - YYCache (1.0.4)
+  - YYImage (1.0.4):
+    - YYImage/Core (= 1.0.4)
+  - YYImage/Core (1.0.4)
+  - YYModel (1.0.4)
+  - YYWebImage (1.0.5):
+    - YYCache
+    - YYImage
+  - ZXingObjC (3.2.2):
+    - ZXingObjC/All (= 3.2.2)
+  - ZXingObjC/All (3.2.2)
+
+DEPENDENCIES:
+  - ACEExpandableTextCell (~> 1.0.4)
+  - BlocksKit (~> 2.2.5)
+  - DZNEmptyDataSet (~> 1.8.1)
+  - FMDB (~> 2.6.2)
+  - FTPopOverMenu (~> 1.3.3)
+  - IQKeyboardManager
+  - JTCalendar (~> 2.1.9)
+  - LBXScan (~> 1.1.1)
+  - Masonry (= 1.0.2)
+  - MBProgressHUD (~> 0.9.2)
+  - MJRefresh (~> 3.1.12)
+  - NJKWebViewProgress (~> 0.2.3)
+  - SDAutoLayout (~> 2.1.8)
+  - SDWebImage (~> 3.8.2)
+  - Toast (~> 3.1.0)
+  - TPKeyboardAvoiding (~> 1.3.1)
+  - TZImagePickerController (= 1.7.8)
+  - UITableView+FDTemplateLayoutCell (~> 1.5.beta)
+  - VTMagic (~> 1.2.4)
+  - WTPhotoBrowser (~> 0.0.16)
+  - YTKNetwork (~> 2.0.3)
+  - YYModel (~> 1.0.4)
+  - YYWebImage (~> 1.0.5)
+
+SPEC CHECKSUMS:
+  ACEExpandableTextCell: 02c1fdb5a57344f543c9536c8c985ffcca1ed8b2
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  DZNEmptyDataSet: 9525833b9e68ac21c30253e1d3d7076cc828eaa7
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  FTPopOverMenu: 1f6c5fb6a690d8d438176d6844e1d1c05a8758fe
+  IQKeyboardManager: 0bfa4607d39924116b5c0c8b55b5d789288b5cba
+  JTCalendar: d85b0222e9378007a2d185b15c90b7d707a2abe0
+  LBXScan: dfb4d8ae8e4cff2aa0c9e1771e43954dce1469a9
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  MBProgressHUD: 1569cf7ace17a8bac47aabfbb8580a49690386d1
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  SDAutoLayout: 6b6f4db0d009dfc46cef14ef710dbb164e86616c
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SZTextView: 094dc6acc9beec537685c545d6e3e0d4975174e1
+  Toast: 14a93686d6c8bfe2727afd342414e35660a8a1f3
+  TPKeyboardAvoiding: cb69d5ddbe90ce0170e4bc2db1e5e41d4a3ad9a4
+  TZImagePickerController: 87a138ae5d585225aaa6c8abe2cface0f0ad19dd
+  UITableView+FDTemplateLayoutCell: 5c949b4a5059c404b442926c0e80f81d10a2d66f
+  VTMagic: b49e5f456dbcbfd9a3588ba92417233a105bc193
+  WTPhotoBrowser: 3e7c0d266ad3bfe7e1ee10f354a3f795a0b2a2d0
+  YTKNetwork: df8a7a5597bda1664a4efaa7ef871a818a887fe0
+  YYCache: 8105b6638f5e849296c71f331ff83891a4942952
+  YYImage: 1e1b62a9997399593e4b9c4ecfbbabbf1d3f3b54
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+  YYWebImage: 5f7f36aee2ae293f016d418c7d6ba05c4863e928
+  ZXingObjC: 2c95a0dc52daac69b23ec78fad8fa2fec05f8981
+
+PODFILE CHECKSUM: 20766cbc4ba5894cad944407e8f705cfb0742c4e
+
+COCOAPODS: 1.4.0.beta.1

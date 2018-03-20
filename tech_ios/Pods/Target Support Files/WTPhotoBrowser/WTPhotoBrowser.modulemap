@@ -1,0 +1,6 @@
+framework module WTPhotoBrowser {
+  umbrella header "WTPhotoBrowser-umbrella.h"
+
+  export *
+  module * { export * }
+}
